@@ -1,0 +1,1 @@
+{"version":3,"file":"Engine.js","sourceRoot":"","sources":["../../src/classes/Engine.ts"],"names":[],"mappings":"AAGA,MAAM,CAAC,OAAO,OAAO,MAAM;IAIvB,YAAY,IAAsB,EAAE,UAAiB;QACjD,IAAI,CAAC,KAAK,GAAG,IAAI,CAAC;QAClB,IAAI,CAAC,WAAW,GAAG,UAAU,CAAC;IAClC,CAAC;CACJ"}
