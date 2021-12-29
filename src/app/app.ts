@@ -41,3 +41,5 @@ const itdepartment = new ITDepartment('IT Department', 1, []);
 itdepartment.addAdmin('Max Mustermann');
 itdepartment.DepartmentID = 33;
 console.log(itdepartment);
+
+console.log('test');

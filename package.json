@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "lite-server -c bs-config.json"
+    "start": "lite-server -c bs-config.json && tsc --watch"
   },
   "author": "",
   "license": "ISC",

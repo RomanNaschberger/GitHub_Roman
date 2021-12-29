@@ -6,4 +6,5 @@ export default class Car {
         this._engine = engine;
     }
 }
+console.log('test');
 //# sourceMappingURL=Car.js.map
