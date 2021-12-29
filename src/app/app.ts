@@ -42,4 +42,4 @@ itdepartment.addAdmin('Max Mustermann');
 itdepartment.DepartmentID = 33;
 console.log(itdepartment);
 
-// TEST
+// TEST2
